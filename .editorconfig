@@ -1,0 +1,17 @@
+root = true
+
+[*]
+trim_trailing_whitespace = true
+insert_final_newline = true
+
+[*.sh]
+indent_size = 2
+indent_style = space
+
+[*.bash]
+indent_size = 2
+indent_style = space
+
+[*.bats]
+indent_size = 2
+indent_style = space
